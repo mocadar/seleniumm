@@ -1,9 +1,0 @@
-services:
-  - type: pserv
-    name: clickhouse
-    env: docker
-    plan: standard
-    disk:
-      name: data
-      mountPath: /var/lib/clickhouse
-      sizeGB: 10
