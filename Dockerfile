@@ -1,1 +1,1 @@
-FROM yandex/clickhouse-server:21
+FROM selenium/standalone-chrome
